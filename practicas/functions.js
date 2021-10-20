@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Ejercicio 1
 Crear una funcion que recibe un numero y muestra por consola el numero mayor o si son iguales en caso de que lo sean.
@@ -68,3 +69,9 @@ while(isNaN(val1)||isNaN(val2)){
 
 inb(val1,val2)
 
+=======
+function operacionesBasicas(){
+    console.log(2*2)
+    console.log(2+2)
+}
+>>>>>>> main
